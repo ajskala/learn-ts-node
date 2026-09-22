@@ -49,3 +49,5 @@ output.
    structural typing, classes, and the Node type-stripping limitation above.
 3. **`03-unions-and-narrowing`** — union types, narrowing (`typeof`, `in`,
    `instanceof`), discriminated unions, and exhaustiveness checking with `never`.
+4. **`04-functions-generics-overloads`** — default/optional/rest params, generic
+   functions and classes, generic constraints, and function overloads.
